@@ -36,7 +36,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
     } else {
       print("not validate");
     }
-    print("sin in");
+    print("sin in success");
   }
 
   insertMultipleCollection({String? id}) {
