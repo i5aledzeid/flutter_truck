@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040008016961",
+    "project_id": "truck-2cc0b",
+    "storage_bucket": "truck-2cc0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040008016961:android:c3e417861dd32e27a982c0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_truck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040008016961-pstp9a6eia75amknj78tjpitg3taps5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj6wFsgFdGDKIx2GFVn6uVlcSMjGsiOL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040008016961-pstp9a6eia75amknj78tjpitg3taps5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
